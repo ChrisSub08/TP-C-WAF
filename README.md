@@ -60,6 +60,8 @@ Un **middleware** est un logiciel intermédiaire qui agit comme **interface entr
 * Réutilisabilité : le même middleware peut servir pour plusieurs routes ou projets.
 * Centralisation de certaines fonctions : sécurité, journalisation, traitement des erreurs, etc.
 
+---
+
 ### **3. DLL / Shared Object (Bibliothèques Dynamiques)**
 
 Une **DLL (Dynamic Link Library)** sur Windows ou un **Shared Object (.so)** sur Linux est un fichier contenant du code et des ressources **réutilisables par plusieurs programmes** sans avoir à les inclure directement dans chaque application.
@@ -226,3 +228,4 @@ Test 16: POST /login, Metasploit User-Agent, public address
 Auteur: Christophe SUBLET  
 Organisation: Esisar  
 Sponsors: CyberSkills
+
