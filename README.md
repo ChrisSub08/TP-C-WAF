@@ -223,6 +223,6 @@ Test 16: POST /login, Metasploit User-Agent, public address
 
 ## Credits
 
-Auteur: Christophe SUBLET
-Organisation: Esisar
+Auteur: Christophe SUBLET  
+Organisation: Esisar  
 Sponsors: CyberSkills
